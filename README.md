@@ -8,7 +8,7 @@ The BOGS Tutorial Website serves as an educational platform catering to differen
 
 ## Hosted Link 
 
-You can access the hosted version of the website [bogstutorial](https://dvpleywdtpcvjudlgnyyla.on.drv.tw/www.bogsTutorial.blog/).
+You can access the hosted version of the website [BOGS Tutorial Website](https://nithinroyale.github.io/BOGS-tutorial/).
 
 
 ## Features
