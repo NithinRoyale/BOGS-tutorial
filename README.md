@@ -6,9 +6,9 @@ Welcome to the BOGS Tutorial Website repository! This repository hosts the sourc
 
 The BOGS Tutorial Website serves as an educational platform catering to different stakeholders within an educational setting. It offers tutorials and resources tailored to specific roles such as HOD (Head of Department), tutors, NMC (Nomination Committee) members, administrators, and students.
 
-## Hosted Link
+## Hosted Link 
 
-You can access the hosted version of the website [here](https://your-hosted-link.com).
+You can access the hosted version of the website [bogstutorial](https://dvpleywdtpcvjudlgnyyla.on.drv.tw/www.bogsTutorial.blog/).
 
 
 ## Features
