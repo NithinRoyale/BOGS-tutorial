@@ -44,7 +44,7 @@ To run the BOGS Tutorial Website locally, follow these steps:
 
 3. Open the `index.html` file in your preferred web browser.
 
-## Contributing
+## Contributors
 
 - [Nithin](https://github.com/NithinRoyale/)
 
